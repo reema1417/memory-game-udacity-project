@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Memory-game-udacity
 This is a simple game built to test a player memory. There's a deck of cards with different icons, that is the second project for 
 Front End Course.
@@ -8,9 +8,11 @@ The player should be match cards in less time with less moves.
 
 # How to play
 1- Click on a card
+
 2- Keep revealing cards and working your memory to remember each unveiled card.
+
 3- Match cards properly with less moves and in faster time
-=======
+
 # Memory Game Project
 
 ## Table of Contents
